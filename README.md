@@ -41,11 +41,12 @@ Kiến trúc mới đề xuất:RoBERTa (Backbone) → CNN 1D → BiLSTM → Sel
 | RF | 99.38% |
 | DistilBERT | 99.95% |
 | RoBERTa | 99.79% |
-| **Hybrid (Proposed)** | **[điền số thực tế]%** |
+| **Hybrid (Proposed)** | **[99,69]%** |
 
 ## Pre-trained Models
 File model (.pt) lưu tại Google Drive:  
-[Link Drive]
+Stage2_Models: https://drive.google.com/drive/folders/1Mg9h-6Br6dXSTpxRTUrJ7GUltRtNzeC-?usp=sharing
+Stage4_Hybrid_Outputs: https://drive.google.com/drive/folders/1yQ89IY6ihKN1K3zgLEo6jazu8R-dMJu1?usp=sharing
 
 ## Môi trường chạy
 - Google Colab (GPU T4)
