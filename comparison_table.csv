@@ -1,0 +1,8 @@
+Model,Type,Accuracy(%),Precision,Recall,F1-score,MCC,Kappa
+XGB,ML,98.34,0.99,0.98,0.98,-,-
+SVM,ML,99.59,1.0,1.0,1.0,-,-
+KNN,ML,94.97,0.95,0.9,0.95,-,-
+RF,ML,99.38,0.99,0.99,0.99,-,-
+DistilBERT,Transformer,99.95,1.0,1.0,1.0,-,-
+RoBERTa,Transformer,99.79,1.0,1.0,1.0,-,-
+Hybrid RoBERTa-CNN-BiLSTM-Attn ★,Proposed Model,99.69,0.9969,0.9969,0.9969,0.9938,0.9938
